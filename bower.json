@@ -1,0 +1,31 @@
+{
+  "name": "HTML-Project-Template",
+  "authors": [
+    "Francis Maina"
+  ],
+  "description": "A starter html starter template associated with the most commom UI frameworks",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "HTML",
+    "Starter",
+    "Template",
+    "UI",
+    "Starter-UI"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "semantic": "semantic-ui#^2.1.8",
+    "font-awesome": "fontawesome#^4.5.0",
+    "Materialize": "materialize#^0.97.5"
+  }
+}
